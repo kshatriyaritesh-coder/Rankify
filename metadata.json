@@ -1,0 +1,6 @@
+{
+  "name": "ApexRank AI Recruiter",
+  "description": "An intelligent AI recruiter proof-of-concept that interprets complex job descriptions and intelligently ranks candidate pipelines leveraging profile attributes, career trajectory metadata, and crucial behavioral signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
